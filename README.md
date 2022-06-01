@@ -31,20 +31,4 @@ Commenting code and following a coding style standard
 <li> <a href = "#">0x00-python-hello_world</a></li>
 <li><a href ="#">0x01-python-if_else_loops_functions</a></li>
 <li><a href = "#">0x02-python-data_structures</a></li>  
-5. [0x04-python-more_data_structures](./0x04-python-more_data_structures)
-6. [0x05-python-exceptions](./0x05-python-exceptions)
-7. [0x06-python-classes](./0x06-python-classes)
-8. [0x07-python-test_driven_development](./0x07-python-test_driven_development)
-9. [0x08-python-more_classes](./0x08-python-more_classes)
-10. [0x09-python-everything_is_object](./0x09-python-everything_is_object)
-11. [0x0A-python-inheritance](./0x0A-python-inheritance)
-12. [0x0B-python-input_output](./0x0B-python-input_output)
-13. [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle)
-14. [0x0D-SQL_introduction](./0x0D-SQL_introduction)
-15. [0x0E-SQL_more_queries](./0x0E-SQL_more_queries)
-16. [0x0F-python-object_relational_mapping](./0x0F-python-object_relational_mapping)
-17. [0x10-python-network_0](./0x10-python-network_0)
-18. [0x11-python-network_1](./0x11-python-network_1)
-19. [0x12-javascript-warm_up](./0x12-javascript-warm_up)
-20. [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures)
-21. [0x14-javascript-web_scraping](./0x14-javascript-web_scraping)
+ <li><a href = "#">0x04-python-more_data_structures</a></li>
