@@ -5,7 +5,7 @@ if number < 0:
     remainder = number % -10
 else:
     remainder = number % 10
-print('last digit of', number, 'is', remainder, end=' ')
+print('Last digit of', number, 'is', remainder, end=' ')
 if remainder > 5:
     print('and is the greater than 5')
 elif remainder == 0:
