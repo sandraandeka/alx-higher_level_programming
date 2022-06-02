@@ -31,3 +31,4 @@ Commenting code and following a coding style standard
 <li> <a href = "#">0x00-python-hello_world</a></li>
 <li><a href ="#">0x01-python-if_else_loops_functions</a></li>
 <li><a href = "#">0x02-python-data_structures</a></li>  
+ <li><a href = "#">0x04-python-more_data_structures</a></li>
