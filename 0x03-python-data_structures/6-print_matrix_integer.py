@@ -2,14 +2,5 @@
 
 
 def print_matrix_integer(matrix=[[]]):
-    """
-    print a matrix of integers to STDOUT
-    """
-    for row in matrix:
-        row_len = len(row)
-        for i in range(row_len):
-            if i != row_len -1:
-                print("{:d}".format(row[1]), end=' ')
-            else:
-                print("{:d}".format(row[i]), end='')
-        print()
+    for elm in matrix:
+        print(" ".join("{:d}".format(i) for i in elm))
